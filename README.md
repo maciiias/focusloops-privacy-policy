@@ -28,7 +28,7 @@
 <body>
 
 <h1>Política de Privacidad – FocusLoops</h1>
-<p class="date">Última actualización: 1 de enero de 2025</p>
+<p class="date">Última actualización: 17 de noviembre 2025</p>
 
 <p>
     En FocusLoops valoramos la privacidad de nuestros usuarios. Esta aplicación
